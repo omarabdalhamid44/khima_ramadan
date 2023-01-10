@@ -1,6 +1,6 @@
 # khima_ramdan
 
-App for all muslims
+App for all muslims , Islamic application with a presentation of public safety and security laws at work
 
 ## Getting Started
 
